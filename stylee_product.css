@@ -1,0 +1,131 @@
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(11, 92, 168, 0.9);
+}
+.logo {
+  width: 125px;
+  margin-top: 15px;
+}
+.header-left {
+  float: left;
+}
+.header-right {
+  float: right;
+}
+.header-right li {
+  float: right;
+}
+.header-right li:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+}
+.bordered {
+  width: 250px;
+  height: 350px;
+  display: flex;
+  margin-top: 50px;
+}
+.test {
+  border-radius: 0px 20px 20px 0px;
+  width: 500px;
+}
+.menu {
+  margin-top: 50px;
+  margin: 50px;
+}
+.border-h1 {
+  color: rgb(22, 109, 109);
+}
+.tabelProduct {
+  margin-top: 20px;
+  font-size: 10px;
+  border-left: 5px solid yellow;
+}
+.our {
+  font-size: 10px;
+  display: flex;
+}
+.main-menu {
+  width: 100%;
+  height: 1100px;
+}
+.produk {
+  margin-top: 25px;
+}
+.namaMenu {
+  text-align: center;
+
+  font-size: 20px;
+  color: rgb(22, 109, 109);
+}
+.harga {
+  text-align: center;
+  font-size: 10px;
+}
+.product-1 {
+  width: 250px;
+}
+
+.contents-item {
+  margin: 20px 90px;
+  float: left;
+}
+.contents-itemB {
+  margin: 20px 90px;
+  float: left;
+
+  background-color: whitesmoke;
+}
+.bor {
+  border-radius: 10px;
+}
+footer {
+  height: 250px;
+  width: 100%;
+  background-color: rgba(12, 60, 70, 0.9);
+}
+.logo-footer {
+  height: 50px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.footer-left {
+  float: left;
+  margin-top: 50px;
+}
+.icon li {
+  float: left;
+  font-size: 40px;
+  margin-right: 30px;
+  font-size: 20px;
+}
+.icon {
+  color: white;
+}
+.footer-right {
+  color: white;
+  float: right;
+  margin-right: 250px;
+  margin-top: 50px;
+  display: flex;
+}
+.sub {
+  margin-bottom: 20px;
+  color: orange;
+}
+.store {
+  float: right;
+}
